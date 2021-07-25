@@ -15,6 +15,3 @@ Thanks for checking out my release!
 * If you're having issues with Python not working properly, please make sure you have the correct version (3.8.3) installed, and all of the correct module versions installed, as listed in requirements.txt
 * Make sure to run League and the bot on your main monitor, as it doesn't support additional monitors!
 If you need additional help, feel free to reach out to me via an issue. (https://github.com/Detergent13/tft-bot/issues)
-
-Hope you enjoy!
--Detergent <3
